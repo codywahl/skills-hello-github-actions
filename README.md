@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+[![Post welcome comment](https://github.com/codywahl/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/codywahl/skills-hello-github-actions/actions/workflows/welcome.yml)
+
 # Hello GitHub Actions
 
 _Create a GitHub Action and use it in a workflow._
